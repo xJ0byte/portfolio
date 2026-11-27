@@ -35,7 +35,7 @@
       }
    },
    "footer":{
-      "text":"© 2025 %full_name% - All rights reserved.",
+      "text":"© 2025 J0byte - All rights reserved.",
       "links":[
          {
             "label":"GitHub",
@@ -303,7 +303,7 @@
          "direct_contact":"Add me on Discord",
          "legal":{
             "enabled":true,
-            "name":"%full_name%",
+            "name":"J0byte",
             "address":"",
             "email":"%email%",
             "phone":"",
@@ -313,28 +313,13 @@
          "social_links":[
             {
                "name":"GitHub",
-               "url":"https://github.com/octocat",
+               "url":"https://github.com/xJ0byte",
                "icon":"github"
             },
             {
-               "name":"X",
-               "url":"https://x.com/github",
-               "icon":"x"
-            },
-            {
-               "name":"TikTok",
-               "url":"https://tiktok.com/@github",
-               "icon":"tiktok"
-            },
-            {
                "name":"YouTube",
-               "url":"https://www.youtube.com/@GitHub",
+               "url":"https://www.youtube.com/@xJ0byte",
                "icon":"youtube"
-            },
-            {
-               "name":"Instagram",
-               "url":"https://www.instagram.com/github/",
-               "icon":"instagram"
             }
          ],
          "contact_form":{
@@ -395,7 +380,7 @@
          "content":{
             "contact_title":"Contact",
             "contact":"%legal_email%",
-            "introduction":"Welcome!<br> <br>This Privacy Notice for Diddy.Gyat (%full_name%) (\"we,\" \"us,\" or \"our\"), describes how and why we may collect, store, use, and/or share (\"process\") your personal information when you engage with our services (\"Services\"). This includes, without limitation, visiting our website at https://diddygyat.dev, any subpage thereof linking to this Privacy Notice, or otherwise interacting with us in a similar context.<br><br>This portfolio website has been designed with minimal data collection and maximum respect for user privacy. We determine the purposes and means by which your personal information is processed and take responsibility for those decisions.<br><br>Please review this Privacy Notice carefully to understand your rights and our obligations with respect to your personal information. If you do not agree with our policies and practices, you should refrain from accessing or using our Services. For any questions or concerns, you may contact us at %legal_email%.",
+            "introduction":"Welcome!<br> <br>This Privacy Notice for Diddy.Gyat (J0byte) (\"we,\" \"us,\" or \"our\"), describes how and why we may collect, store, use, and/or share (\"process\") your personal information when you engage with our services (\"Services\"). This includes, without limitation, visiting our website at https://diddygyat.dev, any subpage thereof linking to this Privacy Notice, or otherwise interacting with us in a similar context.<br><br>This portfolio website has been designed with minimal data collection and maximum respect for user privacy. We determine the purposes and means by which your personal information is processed and take responsibility for those decisions.<br><br>Please review this Privacy Notice carefully to understand your rights and our obligations with respect to your personal information. If you do not agree with our policies and practices, you should refrain from accessing or using our Services. For any questions or concerns, you may contact us at %legal_email%.",
             "summary":{
                "title":"Overview of Main Points",
                "description":"This overview presents the primary points from our Privacy Notice. For more specifics on any topic, check the sections below or use the table of contents to locate what you're seeking.",
