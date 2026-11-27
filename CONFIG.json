@@ -246,32 +246,32 @@
             "title":"My Experience",
             "list":[
                {
-                  "title":"Basement Dweller",
-                  "company":"Mom's House",
-                  "date":"2025 – Present",
-                  "description":"Building custom game modes using mom's computer for [BasementCorp](https://www.youtube.com/@BasementCorp).",
+                  "title": "Plugin Developer",
+                  "company": "xByteMC",
+                  "date": "2026 - Present",
+                  "description": "Building gamemodes and systems for a Custom German Minecraft Network.",
+                  "side": "left"
+               },
+               {
+                  "title":"Founder xByteStudios",
+                  "company":"[xByteStudios](https://github.com/xByteStudios)",
+                  "date":"2026 – Present",
+                  "description":"Started a Minecraft studio. We build servers and live events for buddies, plus our own tooling.",
                   "side":"right"
                },
                {
                   "title":"Software Developer",
-                  "company":"[GitHub](https://github.com/diddygyat) / [SpigotMC](https://www.spigotmc.org/members/diddygyat/)",
-                  "date":"2021 – Present",
-                  "description":"Developed various tools, Discord bots, APIs, and Minecraft plugins that have accumulated over **420 downloads** across all platforms. My plugins have been featured by well-known basement dwellers including [BasementReviewer](https://www.youtube.com/@BasementReviewer), [NoTouchGrass](https://www.youtube.com/@NoTouchGrass), and others.",
+                  "company":"[GitHub](https://github.com/xJ0byte)",
+                  "date":"2026 – Present",
+                  "description":"Developed various tools, APIs, and Minecraft plugins that are actualy quite good.",
                   "side":"left"
-               },
-               {
-                  "title":"Discord Moderator",
-                  "company":"[Sigma Network](https://www.youtube.com/watch?v=dQw4w9WgXcQ)",
-                  "date":"2024",
-                  "description":"Assisted the team by moderating chat and maintaining basement systems.",
-                  "side":"right"
                },
                {
                   "title":"Minecraft Server Owner",
-                  "company":"[BrainrotCraft Network](https://diddygyat.dev/projects/brainrotcraft)",
-                  "date":"2022 – 2024",
-                  "description":"Launched and managed a Minecraft server from my basement, developing infrastructure and custom game mode plugins. Collaborated with basement streamers such as NoGrassTouch, SkibidiMaster, and OhioKing. The server welcomed guests including BasementLord, RizzGod, SigmaChad, and even a Discord moderator.",
-                  "side":"left"
+                  "company":"[J0byte](https://github.com/xJ0byte)",
+                  "date":"2024 – 2025",
+                  "description":"Creating my first Minecraft Server ever.",
+                  "side":"right"
                }
             ]
          }
@@ -287,13 +287,13 @@
          "name":"Contact",
          "header":"Socials",
          "route":"/contact",
-         "contact":"diddygyat",
+         "contact":"j0byte",
          "direct_contact":"Add me on Discord",
          "legal":{
-            "enabled":true,
+            "enabled":false,
             "name":"J0byte",
             "address":"",
-            "email":"%email%",
+            "email":"jona@j0byte.de",
             "phone":"",
             "tax_id":"",
             "legal_disclaimer":"More information required under applicable law can be found [here](https://legal.diddygyat.dev)"
