@@ -39,19 +39,7 @@
       "links":[
          {
             "label":"GitHub",
-            "url":"https://github.com/diddygyat/portfolio"
-         },
-         {
-            "label":"Contact",
-            "url":"/contact"
-         },
-         {
-            "label":"Privacy",
-            "url":"/privacy"
-         },
-         {
-            "label":"Legal",
-            "url":"https://legal.diddygyat.dev"
+            "url":"https://github.com/xJ0byte/portfolio"
          }
       ]
    },
@@ -227,17 +215,18 @@
          "route":"/home",
          "name":"Home",
          "profile_image":"/images/avatar_3.png",
-         "about_me":"<gradient>I'm Diddy Gyat!</gradient>",
+         "about_me":"<gradient>I'm J0byte!</gradient>",
          "description":"I specialize in building Spigot plugins like [SkibidiLib](https://github.com/SkibidiLib/SkibidiLib). \"That's not Ohio enough\" is my favorite starting point.",
          "tools_languages_title":"Tools & Languages",
          "languages":[
-            
+            "Java",
+            "HTML5",
+            "CSS3"
          ],
          "tools":[
-            "Basement Development",
             "Backend",
             "Plugin Development",
-            "Spigot & Paper",
+            "Paper and Velocity",
             "Custom Discord Integrations",
             "Deployment & Hosting (Mom's WiFi)"
          ],
