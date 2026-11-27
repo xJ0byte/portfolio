@@ -220,15 +220,14 @@
          "tools_languages_title":"Tools & Languages",
          "languages":[
             "Java",
-            "HTML5",
-            "CSS3"
+            "HTML",
+            "CSS",
+            "MongoDB"
          ],
          "tools":[
-            "Backend",
-            "Plugin Development",
             "Paper and Velocity",
-            "Custom Discord Integrations",
-            "Deployment & Hosting (Mom's WiFi)"
+            "Plugin Development",
+            "Backend"
          ],
          "action_buttons":[
             {
@@ -238,7 +237,7 @@
             },
             {
                "label":"Source Code",
-               "route":"https://github.com/maximjsx/portfolio",
+               "route":"https://github.com/xJ0byte",
                "style":"secondary"
             }
          ],
